@@ -1,1 +1,0 @@
-## HandyMan Dashboard Cloud functions
